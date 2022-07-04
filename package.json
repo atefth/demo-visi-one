@@ -1,0 +1,15 @@
+{
+  "name": "demo-visione",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "block-thread": "node main.js"
+  },
+  "author": "atefth@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
